@@ -17,7 +17,7 @@ driver = webdriver.Chrome(executable_path=r'/usr/bin/chromedriver', chrome_optio
 driver.get("https://hackerone.com/users/sign_in")
 
 # Function to verify that Web Page opened using ( WebDriverWait & expected_conditions )
-# "By" matching [XPATH,ID,NAME,CLASS_NAME] etc..
+# "By" matching [XPATH,ID,NAME,CLASS_NAME] etc.. 
 
 def verify(by):
     try:
