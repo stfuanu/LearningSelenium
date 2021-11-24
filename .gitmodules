@@ -1,0 +1,3 @@
+[submodule "sectra"]
+	path = sectra
+	url = https://github.com/stfuanu/sectra.git
