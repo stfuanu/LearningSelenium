@@ -20,3 +20,4 @@ driver.switch_to.frame(frame_0)
 agree_btn_0 = driver.find_element_by_id('introAgreeButton')
 agree_btn_0.click()
 ```
+https://tecadmin.net/setup-selenium-chromedriver-on-ubuntu/
